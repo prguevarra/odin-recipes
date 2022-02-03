@@ -6,5 +6,5 @@ Learning objectives:
 2. Practice basic concepts on HTML text, list, images and links
 3. Refresher course on basic git
 
-#Live view
+# Live view
 <a href="https://prguevarra.github.io/odin-recipes/">Here</a>
