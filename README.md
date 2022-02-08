@@ -1,4 +1,4 @@
-# odin-recipes
+## odin-recipes
 A basic online recipe book made following the basic HTML foundations course of The Odin Project. Recipes included here are compiled as a personal guide.
 
 Learning objectives:
